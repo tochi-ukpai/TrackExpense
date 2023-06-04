@@ -11,7 +11,7 @@ import SwiftUI
 struct TrackExpenseApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ExpensesListView()
         }
     }
 }
